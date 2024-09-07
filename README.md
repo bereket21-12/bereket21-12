@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Bereket, a junior Full Stack Developer 
+I'm Bereket, a Full Stack Developer 
 
 ## 🔧 Technologies & Tools
 
@@ -30,7 +30,7 @@ I'm Bereket, a junior Full Stack Developer
 
 ## 📫 How to reach me
 
-- Email: berekettadelemulu210@gmail.com.com
+- Email: bereket2023wku@gmail.com.com
 - LinkedIn: https://www.linkedin.com/in/bereket-tadele-57799722b/
 
 
