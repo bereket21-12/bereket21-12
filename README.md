@@ -30,7 +30,7 @@ I'm Bereket, a Full Stack Developer
 
 ## 📫 How to reach me
 
-- Email: bereket2023wku@gmail.com.com
+- Email: bereket2023wku@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bereket-tadele-57799722b/
 
 
