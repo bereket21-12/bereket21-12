@@ -1,36 +1,50 @@
-# Hi there! 👋
+# 👋 Hello there! I'm Bereket
 
-I'm Bereket, a Full Stack Developer 
+🚀 Full Stack Developer | Passionate Problem Solver | Lifelong Learner
 
-## 🔧 Technologies & Tools
+Welcome to my GitHub! I'm a dedicated developer who loves turning ideas into real-world web applications. I enjoy building scalable, maintainable, and modern solutions using a mix of frontend and backend technologies.
 
-<div style="display: flex; justify-content: space-between;">
+---
 
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" alt="CSS3" />
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL" />
-<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express" alt="Express.js" />
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-<img src="https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs" alt="NestJS" />
+## 🛠️ Tech Stack & Tools
 
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## 🌱 I’m currently learning
+---
 
-- Kubernetes
-- Machine learning
+## 🌱 Currently Learning
 
+- 🐳 Docker & Kubernetes
+- 🤖 Machine Learning & AI Fundamentals
+- 📈 System Design for Scalable Applications
 
+---
 
-## 📫 How to reach me
+## 📫 Connect With Me
 
-- Email: bereket2023wku@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bereket-tadele-57799722b/
+- 📧 Email: [bereket2023wku@gmail.com](mailto:bereket2023wku@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/bereket-tadele-57799722b](https://www.linkedin.com/in/bereket-tadele-57799722b/)
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?https://github.com/bereket21-12/bereket21-12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/bereket21-12/bereket21-12&layout=compact&theme=tokyonight" />
+</div>
+
+---
 
