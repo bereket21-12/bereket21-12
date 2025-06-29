@@ -22,7 +22,6 @@ I'm Bereket, a Full Stack Developer
 
 ## 🌱 I’m currently learning
 
-- Docker
 - Kubernetes
 - Machine learning
 
