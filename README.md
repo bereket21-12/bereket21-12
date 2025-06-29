@@ -42,9 +42,11 @@ Welcome to my GitHub! I'm a dedicated developer who loves turning ideas into rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?https://github.com/bereket21-12/bereket21-12&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/bereket21-12/bereket21-12&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket21-12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket21-12&layout=compact&theme=tokyonight" />
 </div>
 
 ---
+
+
 
