@@ -26,8 +26,7 @@ Welcome to my GitHub! I'm a dedicated developer who loves turning ideas into rea
 
 ## 🌱 Currently Learning
 
-- 🐳 Docker & Kubernetes
-- 🤖 Machine Learning & AI Fundamentals
+- 🤖 Machine Learning & AI 
 - 📈 System Design for Scalable Applications
 
 ---
